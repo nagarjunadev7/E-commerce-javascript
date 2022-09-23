@@ -1,0 +1,46 @@
+.container h1{
+    font-size: 55px;
+    margin-top: 15px;
+}
+.display ul{
+    list-style: none;
+}
+.myshow{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    position: relative;
+    top: 10vh;
+    align-content: space-between;
+    
+}
+.card-text{
+    display: none;
+}
+.card-img-top{
+    height: 200px;
+    width: 200px;
+}
+#shopping-cart{
+    color: #000000;
+    font-size: 16px;
+    position: relative;
+    left: 90%;
+    color: white;
+}
+#shopping-cart .badge{
+    color: white;
+    border:1px solid white;
+    border-radius: 10px;
+}
+#add{
+    color: white;
+}
+.viewCart{
+    display: flex;
+    justify-content: space-around;
+}
+.viewCart img{
+    width: 100px;
+    height: 100px;
+}

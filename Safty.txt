@@ -1,0 +1,37 @@
+{
+    "productList":[{
+        "id":"1",
+        "title":"Apple Airpods",
+        "img":"1",
+        "des":"Wireless Noise Cancelling Earphones AirPods Pro have been designed to deliver active Noise Cancellation for immersive sound. Transparancy mode so much can hear your surroundings.",
+        "Price":"25900"
+    },
+    {
+        "id":"2",
+        "title":"Apple Watch",
+        "img":"2",
+        "des":"You’ve never seen a watch like this The most advanced Apple Watch yet, featuring the Always-On Retina display, the ECG app, international emergency calling, fall detection and a built‑in compass.",
+        "Price":"24500"
+    },
+    {
+        "id":"3",
+        "title":"MacBook Pro",
+        "img":"3",
+        "des":"The best for the brightest Designed for those who defy limits and change the world, the new MacBook Pro is by far the most powerful notebook we’ve ever made. it’s the ultimate pro notebook for the ultimate user.",
+        "Price":"199900"
+    },
+    {
+        "id":"4",
+        "title":"iphone 11 Pro",
+        "img":"4",
+        "des":"Pro cameras. Pro display. Pro performance A mind‑blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro.",
+        "Price":"106000"
+    },
+    {
+        "id":"5",
+        "title":"iPad Pro",
+        "img":"5",
+        "des":"Your next computer is not a computer It’s a magical piece of glass. It’s so fast most PC laptops can’t catch up. And you can use it with touch, pencil, keyboard and now trackpad. It’s the new iPad Pro.",
+        "Price":"71,900"
+    }]
+}
